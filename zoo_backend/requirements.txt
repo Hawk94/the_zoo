@@ -1,0 +1,5 @@
+Django==1.11
+django-extensions>=1.7.7
+djangorestframework>=3.5.4
+django-rest-knox>=3.0.0
+python-dateutil>=2.6.0
